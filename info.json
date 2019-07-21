@@ -1,0 +1,13 @@
+{
+    "project": [
+        {
+            "author": "Michael Peters",
+            "projectName": "SensorsToInfluxDB",
+            "version": "0.0.1",
+            "description": "this is an interface between serial data and InfluxDB",
+            "longDescription": "Using an arduino with sensors connected, this program gathers the serial data and formats it into a json object. Then it is pushed to InfluxDB when new data arrives.",
+            "githubLink": "https://github.com/michaelpeterswa/SensorsToInfluxDB",
+            "date": "07.20.2019"
+        }
+    ]
+}
